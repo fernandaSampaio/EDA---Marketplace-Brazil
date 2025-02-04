@@ -1,1 +1,1 @@
-# EDA-Marketplace-Brazil
+# Exploratory Data Analysis (EDA) - Brazil e-commerce. 
